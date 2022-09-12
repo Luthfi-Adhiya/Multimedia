@@ -515,4 +515,16 @@ sepertinya mereka akan menjadi periferal standar, dan itu
 DVD akan digunakan untuk menyajikan multimedia, terutama kualitas tinggi
 video._
 
-sadesss dan sadesss
+Online delivery, however, offers possibilities which are not available
+offline. In particular, it enables the delivery of (almost) live multimedia content, which in turn makes possible novel applications such
+as video conferencing and broadcast multimedia. Generally, when
+multimedia is delivered online, the delivery need not be passive, in
+the way that it is from CD-ROM: things can happen at the delivering
+end; for example, a database query can be executed.
+
+_Pengiriman online, bagaimanapun, menawarkan kemungkinan yang tidak tersedia
+offline. Secara khusus, ini memungkinkan pengiriman (hampir) konten multimedia langsung, yang pada gilirannya memungkinkan aplikasi baru seperti
+sebagai konferensi video dan siaran multimedia. Umumnya, ketika
+multimedia disampaikan secara online, penyampaiannya tidak perlu pasif,
+cara itu dari CD-ROM: hal-hal dapat terjadi pada saat pengiriman
+akhir; misalnya, kueri basis data dapat dieksekusi._
