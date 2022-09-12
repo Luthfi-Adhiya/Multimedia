@@ -515,4 +515,4 @@ sepertinya mereka akan menjadi periferal standar, dan itu
 DVD akan digunakan untuk menyajikan multimedia, terutama kualitas tinggi
 video._
 
-s
+sad
