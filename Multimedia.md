@@ -557,3 +557,56 @@ menjadi begitu terbiasa dengan kecepatan tinggi perubahan teknologi di
 komputasi bahwa multimedia sudah dilihat sebagai fitur yang mapan
 dari lanskap komputasi. Tapi, pada skala waktu budaya
 perubahan, itu baru saja tiba._
+
+The history of film and animation, for example, demonstrates that it
+takes time — much longer than digital multimedia has existed — for
+conventions about content and consumption to become established.
+The very first films exhibited to the public, by the Lumiere brothers
+at the Grand Cafe on the Boulevard des Capucines, in Paris in 1895,
+showed such subjects as workers going home from a factory, and
+a train arriving at a station. To be able to reproduce movement
+was enough, without the farrago of plot, character, or message
+we normally associate with films. The early trick films of Georges
+Melies were shown as part of his magic show, in the same way as the
+magic lantern projections he used to create illusions. In a similar
+vein, Winsor McCay's Gertie the Dinosaur, one of the first short
+animations made in America (in 1909), was used as an integral part
+of his vaudeville act. While Gertie did tricks, McCay stood in front
+of the screen on stage and talked to her, telling her what to do, and
+scolding her when she got it wrong1
+, in response to which Gertie
+started to cry; finally McCay appeared to walk into the frame and
+ride off on the dinosaur's back.
+
+_Sejarah film dan animasi, misalnya, menunjukkan bahwa itu
+membutuhkan waktu — jauh lebih lama daripada multimedia digital yang ada — untuk
+konvensi tentang konten dan konsumsi untuk menjadi mapan.
+Film-film pertama yang dipamerkan kepada publik, oleh Lumiere bersaudara
+di Grand Cafe di Boulevard des Capucines, di Paris pada tahun 1895, menunjukkan subjek seperti pekerja yang pulang dari pabrik, dan
+kereta api yang tiba di stasiun. Untuk dapat mereproduksi gerakan
+sudah cukup, tanpa farrago plot, karakter, atau pesan
+kita biasanya bergaul dengan film. Film trik awal Georges
+Melies ditampilkan sebagai bagian dari pertunjukan sulapnya, dengan cara yang sama seperti
+proyeksi lentera ajaib yang dia gunakan untuk menciptakan ilusi. Dalam hal serupa
+vena, Gertie the Dinosaur karya Winsor McCay, salah satu film pendek pertama
+animasi yang dibuat di Amerika (pada tahun 1909), digunakan sebagai bagian integral
+dari tindakan vaudeville-nya. Sementara Gertie melakukan trik, McCay berdiri di depan
+layar di atas panggung dan berbicara dengannya, memberitahunya apa yang harus dilakukan, dan
+memarahinya ketika dia salah1
+, sebagai tanggapan atas Gertie yang mana
+mulai menangis; akhirnya McCay muncul untuk berjalan ke dalam bingkai dan
+naik di punggung dinosaurus._
+
+> 1. In some versions of the film currently
+in circulation, this monologue has
+been added as a soundtrack, but the
+disembodied voice does not convey
+the presence or interactive nature of
+the vaudeville act
+
+> 1. _Dalam beberapa versi film saat ini
+beredar, monolog ini memiliki
+telah ditambahkan sebagai soundtrack, tetapi
+suara tanpa tubuh tidak menyampaikan
+kehadiran atau sifat interaktif dari
+tindakan vaudeville_
