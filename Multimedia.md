@@ -528,3 +528,32 @@ sebagai konferensi video dan siaran multimedia. Umumnya, ketika
 multimedia disampaikan secara online, penyampaiannya tidak perlu pasif,
 cara itu dari CD-ROM: hal-hal dapat terjadi pada saat pengiriman
 akhir; misalnya, kueri basis data dapat dieksekusi._
+
+# **HISTORICAL CONTEXT**
+
+**KONTEKS SEJARAH**
+
+Compared with established forms such as film or the novel,
+multimedia is still in its earliest days. The CD-ROM specification
+was published in 1985, with drives appearing on desktop machines
+from about 1989; the World Wide Web became publicly available
+outside CERN at the start of 1992, in the form of a line-based browser giving access to a handful of servers; by January 1997,
+when the HTML 3.2 specification was adopted as a World Wide Web
+Consortium Recommendation, audio and video were only supported
+in Web pages through the use of proprietary extensions. We have
+become so accustomed to the high speed of technological change in
+computing that multimedia is already seen as an established feature
+of the computing landscape. But, on the time-scale of cultural
+change, it has barely arrived.
+
+_Dibandingkan dengan bentuk-bentuk mapan seperti film atau novel,
+multimedia masih dalam masa-masa awalnya. Spesifikasi CD-ROM
+diterbitkan pada tahun 1985, dengan drive muncul di mesin desktop
+dari sekitar tahun 1989; World Wide Web menjadi tersedia untuk umum
+di luar CERN pada awal tahun 1992, dalam bentuk browser berbasis garis yang memberikan akses ke beberapa server; pada Januari 1997,ketika spesifikasi HTML 3.2 diadopsi sebagai World Wide Web
+Rekomendasi Konsorsium, audio dan video hanya didukung
+di halaman Web melalui penggunaan ekstensi berpemilik. Kami punya
+menjadi begitu terbiasa dengan kecepatan tinggi perubahan teknologi di
+komputasi bahwa multimedia sudah dilihat sebagai fitur yang mapan
+dari lanskap komputasi. Tapi, pada skala waktu budaya
+perubahan, itu baru saja tiba._
