@@ -308,10 +308,10 @@ menjalankan presentasi multimedia yang menjelaskan kemampuannya, dan Web
 halaman sering berfungsi sebagai brosur penjualan._
 
 Some professions and business areas lend themselves especially
-well to multimedia. Graphic designers produce interactive presentations of their work as a supplement to, or even as a substitute
+well to multimedia. Graphic designers produce interactive presentations of their work as a supplement to, or even as a substitute
 for, a conventional portfolio. The electronic portfolio can be
 inexpensively duplicated on CD-ROM and sent to potential clients,
-or posted on a Web site as a virtual exhibition. In the shrinkwrapped software business, paper manuals have been gradually
+or posted on a Web site as a virtual exhibition. In the shrinkwrapped software business, paper manuals have been gradually
 giving way to electronic documentation for some years. The move
 from hard copy to digital formats has provided an opportunity
 to augment the text and diagrams of conventional manuals with
@@ -339,7 +339,7 @@ data: their graphical form summarizes the data in a way that
 makes recognition of trends and comparisons between magnitudes
 possible at a glance. More complex data than the sort normally kept
 in spreadsheets demands more complex visualizations to provide
-the same degree of comprehensibility. Three-dimensional and timevarying presentations, making use of false colour to carry extra
+the same degree of comprehensibility. Three-dimensional and timevarying presentations, making use of false colour to carry extra
 information, are often favoured. Such elaborate visualizations
 are frequently generated from simulations of complex dynamic
 systems: for example, a program that simulates atmospheric
