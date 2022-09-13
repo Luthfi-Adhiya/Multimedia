@@ -573,7 +573,7 @@ vein, Winsor McCay's Gertie the Dinosaur, one of the first short
 animations made in America (in 1909), was used as an integral part
 of his vaudeville act. While Gertie did tricks, McCay stood in front
 of the screen on stage and talked to her, telling her what to do, and
-scolding her when she got it wrong1
+scolding her when she got it wrong(1)
 , in response to which Gertie
 started to cry; finally McCay appeared to walk into the frame and
 ride off on the dinosaur's back.
@@ -592,7 +592,7 @@ vena, Gertie the Dinosaur karya Winsor McCay, salah satu film pendek pertama
 animasi yang dibuat di Amerika (pada tahun 1909), digunakan sebagai bagian integral
 dari tindakan vaudeville-nya. Sementara Gertie melakukan trik, McCay berdiri di depan
 layar di atas panggung dan berbicara dengannya, memberitahunya apa yang harus dilakukan, dan
-memarahinya ketika dia salah1
+memarahinya ketika dia salah(1)
 , sebagai tanggapan atas Gertie yang mana
 mulai menangis; akhirnya McCay muncul untuk berjalan ke dalam bingkai dan
 naik di punggung dinosaurus._
@@ -610,3 +610,98 @@ telah ditambahkan sebagai soundtrack, tetapi
 suara tanpa tubuh tidak menyampaikan
 kehadiran atau sifat interaktif dari
 tindakan vaudeville_
+
+At the same time, films, including narrative and animation, were
+already being shown, particularly in Europe, as entertainments in
+their own right, purely to be watched on a screen. The diversity
+of early ways of using film shows that there was originally no
+consensus about a 'right' way to present a film. Later on, anything
+other than a cinema screening would be seen as eccentric. Even
+films that attempted to use the medium in original ways would
+mainly do so within the cinema context, and a film shown in other
+ways, for example projected onto the floor of a gallery, would be
+re-defined — for example, as an 'installation'
+
+_Pada saat yang sama, film, termasuk naratif dan animasi, adalah
+sudah ditampilkan, terutama di Eropa, sebagai hiburan di
+hak mereka sendiri, murni untuk ditonton di layar. Keragaman
+cara awal menggunakan film menunjukkan bahwa awalnya tidak ada
+konsensus tentang cara yang 'benar' untuk menyajikan film.Kemudian, apa saja
+selain pemutaran bioskop akan terlihat eksentrik. Rata
+film yang mencoba menggunakan media dengan cara asli akan
+terutama melakukannya dalam konteks bioskop, dan film yang ditampilkan di film lain
+cara, misalnya diproyeksikan ke lantai galeri, akan menjadi
+didefinisikan ulang — misalnya, sebagai 'instalasi'_
+
+Another notable feature of early cinema is the way in which
+established forms were translated into the new medium. In
+particular, the newsreels shown around the time of the First World
+War were based on the same principles as a newspaper, even to the
+extent of including an animated cartoon corresponding to a comic strip. Characters were transported from the comic strips to film,
+and the animators who brought them to life were often (but not
+always) the artists who had drawn the strips. Perhaps more to
+the point, one of the most succesful studios producing newsreels
+and animations was the International Film Service, owned by the
+newspaper proprietor William Randolph Hearst — who also owned
+the syndication rights to many popular comic strips of the period.
+
+_Fitur penting lainnya dari sinema awal adalah cara di mana
+bentuk-bentuk mapan diterjemahkan ke dalam media baru. Di
+khususnya, newsreels yang ditampilkan sekitar waktu Dunia Pertama
+Perang didasarkan pada prinsip-prinsip yang sama dengan surat kabar, bahkan untuk
+sejauh memasukkan kartun animasi yang sesuai dengan strip komik. Karakter diangkut dari komik strip ke film,
+dan para animator yang menghidupkan mereka sering (tetapi tidak
+selalu) para seniman yang telah menggambar strip. Mungkin lebih ke
+intinya, salah satu studio paling sukses yang memproduksi newsreels
+dan animasi adalah Layanan Film Internasional, yang dimiliki oleh
+pemilik surat kabar William Randolph Hearst — yang juga memiliki
+hak sindikasi untuk banyak komik strip populer pada periode tersebut._
+
+Remember that the time we are now describing was twenty years
+after the invention of cinema, yet we still find film looking to earlier
+media for its forms and content. In a similar way, multimedia still
+adopts the format of earlier media; the most obvious example is the
+multimedia encyclopedia, which has the same form — a series of
+short articles, accessible through one or more indexes — as its paper
+equivalent, and is often published by the same organization. Other
+reference works also follow the form of reference books, sometimes,
+as in the case of some of Dorling-Kindersley's CD-ROMs, following
+the distinctive house style of their originals. Electronic software
+manuals rarely depart far from the organization of hard-copy
+manuals, merely adding better searching facilities and sometimes
+some animation
+
+_Ingatlah bahwa waktu yang sekarang kita gambarkan adalah dua puluh tahun
+setelah penemuan sinema, namun kita masih menemukan film yang melihat ke awal
+media untuk bentuk dan isinya. Dengan cara yang sama, multimedia masih
+mengadopsi format media sebelumnya; contoh yang paling jelas adalah
+ensiklopedia multimedia, yang memiliki bentuk yang sama — serangkaian
+artikel pendek, dapat diakses melalui satu atau lebih indeks — sebagai makalahnya
+setara, dan sering diterbitkan oleh organisasi yang sama. Lain
+karya referensi juga mengikuti bentuk buku referensi, kadang-kadang,
+seperti dalam kasus beberapa CD-ROM Dorling-Kindersley, mengikuti
+gaya rumah khas aslinya. Perangkat lunak elektronik
+manual jarang berangkat jauh dari organisasi hard-copy
+manual, hanya menambahkan fasilitas pencarian yang lebih baik dan terkadang
+beberapa animasi._
+
+One of the things that was needed before film could acquire its
+distinct character as a medium was an appreciation of the way the
+movie camera and film could be used to create new sorts of images,
+by framing, movement, editing and special effects. In multimedia,
+part of what is presently missing is a real understanding of how
+we can take advantage of the fact that digital multimedia is data,
+to integrate the presentation of multimedia with computation. For
+the moment, we are largely confined to controlling the presentation
+interactively, and to moving the data across networks
+
+_Salah satu hal yang dibutuhkan sebelum film dapat memperolehnya
+karakter yang berbeda sebagai media adalah apresiasi terhadap cara
+kamera film dan film dapat digunakan untuk membuat jenis gambar baru,
+dengan membingkai, gerakan, mengedit, dan efek khusus. Dalam multimedia,
+bagian dari apa yang saat ini hilang adalah pemahaman nyata tentang bagaimana
+kita dapat memanfaatkan fakta bahwa multimedia digital adalah data,
+untuk mengintegrasikan presentasi multimedia dengan komputasi. Bagi
+saat ini, kami sebagian besar terbatas pada pengendalian presentasi
+secara interaktif, dan untuk memindahkan data di seluruh jaringan._
+
